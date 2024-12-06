@@ -10,7 +10,7 @@ header{
     color: rgba(255, 255, 255, 0.849);
     font-family: Arial, Helvetica, sans-serif;
 }
-@media screen and (max-width) {
+@media screen and (max-width:720px) {
     header{
         flex-wrap: wrap;
     }
